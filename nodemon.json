@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER": "satyamstudentprofile",
+        "DB_PASSWORD": "Satyam12345",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY":"AIzaSyDeF51W0U7HGyevsC7K2eVgz1n1kHA1HB0",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+    
+}
